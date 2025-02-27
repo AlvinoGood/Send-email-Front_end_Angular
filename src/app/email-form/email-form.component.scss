@@ -1,0 +1,25 @@
+// Colors
+$black-color: #2D3136;
+$gray-color: #7F8C99;
+$yellow-color: #F4C151;
+
+// Fonts
+$Kaisei-font: "Kaisei HarunoUmi", sans-serif;
+$JetBrains-font: "JetBrains Mono", sans-serif;
+$Niconne: "Niconne", sans-serif;
+$Akaya: "Akaya Kanadaka", sans-serif;
+
+.form-section{
+    font-family: $JetBrains-font, sans-serif;
+}
+
+.title{
+    font-family: $Niconne, sans-serif;
+}
+
+.custom-img{
+    position: absolute;
+    width: 20%;
+    bottom: 180px;
+    right: 50px;
+}
